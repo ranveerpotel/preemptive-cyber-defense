@@ -1,5 +1,7 @@
 # Preemptive Cyber Defense Architecture
 
+[![CI](https://github.com/ranveerpotel/preemptive-cyber-defense/actions/workflows/ci.yml/badge.svg)](https://github.com/ranveerpotel/preemptive-cyber-defense/actions/workflows/ci.yml)
+
 > **Python implementation** of the peer-reviewed research paper:
 >
 > Potel, R. (2021). *A Data-Driven Architecture for Preemptive Cyber Defense Using AI-Based Governance and Autonomous Remediation.* International Journal of Engineering & Extended Technologies Research (IJEETR), Vol. 3, Issue 6, pp. 4053–4062.
