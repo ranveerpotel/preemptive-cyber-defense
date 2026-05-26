@@ -7,7 +7,7 @@ pydantic==2.10.3
 torch==2.5.1
 stable-baselines3==2.4.0
 gymnasium==1.0.0
-shap==0.46.0
+shap==0.51.0
 
 # Graph
 networkx==3.4.2
