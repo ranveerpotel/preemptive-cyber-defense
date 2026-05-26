@@ -27,7 +27,7 @@ asyncpg==0.30.0
 psycopg2-binary==2.9.10
 
 # Vector store (Qdrant — for SKG embedding search)
-qdrant-client==1.12.1
+qdrant-client==1.18.0
 
 # Caching
 redis==5.2.1
