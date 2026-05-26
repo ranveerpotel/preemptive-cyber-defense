@@ -14,7 +14,7 @@ networkx==3.4.2
 
 # Numerical
 numpy==2.1.3
-scipy==1.14.1
+scipy==1.17.1
 
 # Streaming (Kafka)
 confluent-kafka==2.6.1
